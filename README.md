@@ -1,2 +1,2 @@
-# I-A-C-Repo
+# repository.exodusredux
 Kodi repository source
